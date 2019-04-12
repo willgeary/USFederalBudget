@@ -1,4 +1,4 @@
-# USFederalBudget
+# US Federal Budget Animated Pie Charts
 Python and Processing code to animate US Federal Budget over time as growing and shrinking pie charts.
 
 Published originally on [Twitter](https://twitter.com/wgeary/status/1038837666937282560). Full video available on [Vimeo](https://vimeo.com/288958060).
